@@ -29,7 +29,3 @@ php artisan serve
 
 ```
 
-# Deployment
-
-https://curly-tribble-q7p7rv4rjph6rp-8000.app.github.dev/
-
