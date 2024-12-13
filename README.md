@@ -8,7 +8,7 @@ OOP PHP
 
 MVC
 
-# Project: Book Online
+# Project: Shoes Shop Online
 
 ## UML
 
